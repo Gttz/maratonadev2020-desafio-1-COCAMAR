@@ -2,6 +2,7 @@
 [![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
 [![](https://img.shields.io/discord/734849242153222221?logo=discord)](https://discord.gg/2NRPpcU)
 
+Solução para o desafio 01 da Maratona Behind The Code 2020 - Realizado pela IBM
 # Link: https://pipeline-jp-responsible-rhinocerous.mybluemix.net/
 
 # Desafio 01 | Cocamar
